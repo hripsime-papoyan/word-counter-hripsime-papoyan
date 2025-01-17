@@ -1,0 +1,12 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+textarea{
+  width:90%;
+  height: 250px;
+  padding:20px;
+}echo
